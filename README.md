@@ -4,7 +4,7 @@
 
 
 ## I'm a Developer!!
-- ✍ You can find my projects here <a href="https://github.com/moiezshaikh18"></a>
+- ✍ You can find my projects here <a href="https://github.com/moiezshaikh18">[Here]</a>
 - 🔭 I’m currently working at Samata Corporation.
 - 🌱 I’m currently learning TypeScript
 - ⚡ Fun fact: I speak 4 languages ( English, Hindi, Marathi)
