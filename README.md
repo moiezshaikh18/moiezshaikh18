@@ -1,20 +1,17 @@
 ### Hello World, I'm Moiz  👋
 
- <img align="right" alt="GIF" src="moiz-github.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="moiz-github2.gif" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+## I'm a Developer!!
+- ✍ You can find my projects here <a href="https://github.com/moiezshaikh18"></a>
+- 🔭 I’m currently working at Samata Corporation.
+- 🌱 I’m currently learning TypeScript
+- ⚡ Fun fact: I speak 4 languages ( English, Hindi, Marathi)
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://github.com/moiezshaikh18]
 
 <br />
 
