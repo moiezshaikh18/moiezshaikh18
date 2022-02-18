@@ -1,6 +1,6 @@
 ### Hello World, I'm Moiz  👋
 
- <img align="right" alt="GIF" src="https://github.com/moiezshaikh18/moiezshaikh18/main/moiz-github.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="moiz-github.gif" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
