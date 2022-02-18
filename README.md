@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="moiz-github2.gif" width="500" height="350" />
 
 
-## I'm a Developer!!
+## I'm a Front-End Developer!!
 - ✍ You can find my projects here <a href="https://github.com/moiezshaikh18">[Here]</a>
 - 🔭 I’m currently working at Samata Corporation.
 - 🌱 I’m currently learning TypeScript
