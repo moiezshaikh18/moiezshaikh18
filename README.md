@@ -1,6 +1,6 @@
 ### Hello World, I'm Moiz  👋
 
- <img align="right" alt="GIF" src="moiz-github2.gif" width="500" height="400" />
+ <img align="right" alt="GIF" src="moiz-github2.gif" width="500" height="350" />
 
 
 ## I'm a Developer!!
