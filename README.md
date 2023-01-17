@@ -5,7 +5,7 @@
 
 ## I'm a Front-End Developer!!
 - ✍ You can find my projects here <a href="https://github.com/moiezshaikh18">[Here]</a>
-- 🔭 I’m currently working at Samata Corporation.
+- 🔭 I’m currently working at Cybage Software.
 - 🌱 I’m currently learning TypeScript
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Marathi)
 
