@@ -1,58 +1,50 @@
-### Hello World, I'm Moiz 👋
+# Hi there, I'm Moiz! 👋
 
-<img align="right" alt="GIF" src="moiz-github2.gif" width="400" />
+## 🚀 About Me
+I'm a React.js developer aiming to become a full-stack developer with a focus on Java for backend development. Currently preparing for FAANG interviews while learning DSA, Java, Spring Boot, microservices, and DevOps.
 
-## 🚀 Front-End Developer | Aspiring Full-Stack Engineer
-- 🔭 Currently working at **Cybage Software**
-- 🌱 Currently learning **TypeScript, Java, Spring Boot, Microservices**
-- 💡 Exploring **System Design, DevOps (Docker, Kubernetes, CI/CD, AWS)**
-- 💻 Check out my projects **[here]**
-- 🎯 Preparing for **FAANG Interviews**
-- ⚡ Fun fact: I speak **English, Hindi, and Marathi**
+## 🛠 Skills & Technologies
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=for-the-badge&logo=flowbite&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=microservices&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Other
+![DSA](https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge&logo=algorithm&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-FF5722?style=for-the-badge&logo=architecture&logoColor=white)
+
+## 📖 Learning Journey
+- 📌 **DSA:** 1 hour daily (C++ & Java)
+- 📌 **Frontend & Backend:** Alternate days
+- 📌 **DevOps:** Exploring Docker, Kubernetes, and CI/CD
+
+## 📈 Goals
+🎯 Crack FAANG interviews in 6 months.
+🎯 Master full-stack development.
+🎯 Gain expertise in DevOps & backend deployment.
+
+## 🕒 My Schedule
+- **Work:** 10 AM - 6:30 PM
+- **Commute:** 2 hours total, home by 8 PM
+- **Study:** 2 hours daily, 4 hours on weekends
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ---
-
-### 🛠️ Tech Stack & Tools:
-
-<p>
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Java-red?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moiezshaikh18&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiezshaikh18&layout=compact&theme=radical" width="400" />
-</p>
-
----
-
-### 🚀 Learning & Goals:
-
-📌 **DSA Daily** (C++ & Java)  
-📌 **Backend Mastery** (Spring Boot, Microservices)  
-📌 **System Design & Scalability**  
-📌 **Cloud & DevOps** (AWS, Docker, Kubernetes, CI/CD)  
-📌 **FAANG-Level Problem Solving**  
-
----
-
-### 🤝 Connect with me:
-
-<p>
-  <a href="[LinkedIn]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+_Consistency is the key to success!_ 🚀
