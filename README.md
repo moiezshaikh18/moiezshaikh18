@@ -44,12 +44,12 @@ I'm a **Front-End Developer** aiming to become a full-stack developer with a foc
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Moiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=moiezshaikh18&show_icons=true&hide_border=true" />
+  <img align="left" alt="Moiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=moiezshaikh18&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Moiz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiezshaikh18&layout=compact" />
+  <img align="left" alt="Moiz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiezshaikh18&layout=compact&theme=tokyonight" />
 </details>
 
 ---
