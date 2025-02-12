@@ -19,11 +19,10 @@ I'm a **Front-End Developer** aiming to become a full-stack developer with a foc
 - ⚡ Fun fact: I speak **English, Hindi, Marathi**
 
 ### ✨ Animated Introduction:
-```html
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer;Java+%7C+Spring+Boot+Learner;Preparing+for+FAANG!" /></a>
 </p>
-```
+
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiezshaikh18/)
