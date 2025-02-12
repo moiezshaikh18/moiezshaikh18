@@ -1,46 +1,42 @@
-### Hello World, I'm Moiz  👋
+### Hello World, I'm Moiz 👋
 
- <img align="right" alt="GIF" src="moiz-github2.gif" width="500" height="350" />
+<img align="right" alt="GIF" src="moiz-github2.gif" width="400" />
 
+## 🚀 Front-End Developer
+- 🔭 Currently working at **Cybage Software**
+- 🌱 Currently learning **TypeScript**
+- 💻 Check out my projects **[here]**
+- ⚡ Fun fact: I speak **English, Hindi, and Marathi**
 
-## I'm a Front-End Developer!!
-- ✍ You can find my projects here <a href="https://github.com/moiezshaikh18">[Here]</a>
-- 🔭 I’m currently working at Cybage Software.
-- 🌱 I’m currently learning TypeScript
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Marathi)
-
-
-### Talk with me, I am kinda awesome:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://github.com/moiezshaikh18">[Linkedin]</a>
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 🛠️ Tech Stack & Tools:
 
-  <img align="left" alt="Moiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=moiezshaikh18&show_icons=true&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-</details>
+---
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+### 📊 GitHub Stats:
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiezshaikh18" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moiezshaikh18&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiezshaikh18&layout=compact&theme=radical" width="400" />
+</p>
 
-</details>
+---
 
+### 🤝 Connect with me:
+
+<p>
+  <a href="[LinkedIn]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
