@@ -7,11 +7,11 @@
 I'm a **Front-End Developer** aiming to become a full-stack developer with a focus on Java for backend development. Currently preparing for FAANG interviews while learning **DSA, Java, Spring Boot, microservices, and DevOps**.
 
 ### 🌟 What I Do
-```text
+
 🚀 Transforming ideas into interactive experiences
 🎨 Crafting pixel-perfect UIs
 📚 Continuously learning & upskilling
-```
+
 
 - ✍ You can find my projects **[here](https://github.com/moiezshaikh18)**
 - 🔭 I’m currently working at **Cybage Software**
