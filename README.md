@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Front-End Developer** aiming to become a full-stack developer focusing on Java for backend development. Currently preparing for FAANG interviews while learning **DSA, Java, Spring Boot, microservices, and DevOps**.
+I'm a **Front-End Developer** aiming to become a full-stack developer focusing on Java for backend development. Currently preparing for MAANG interviews while learning **DSA, Java, Spring Boot, microservices, and DevOps**.
 
 ### 🌟 What I Do
 
@@ -22,7 +22,7 @@ I'm a **Front-End Developer** aiming to become a full-stack developer focusing o
 
 ### ✨ Animated Introduction:
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer;Java+%7C+Spring+Boot+Learner;Preparing+for+PRODCUT-BASED-COMPANY!" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&height=30&lines=Front-End+Developer;Java+%7C+Spring+Boot+Learner;Preparing+for+PRODCUT-BASED-COMPANY!;Aspiring+Full+Stack+Engineer" /></a>
 </p>
 
 
