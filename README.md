@@ -14,7 +14,7 @@ I'm a **Front-End Developer** aiming to become a full-stack developer focusing o
 🎨 Crafting pixel-perfect UIs
 📚 Continuously learning & upskilling
 
-
+- 🌍  I'm based in Pune, Maharashtra
 - ✍ You can find my projects **[here](https://github.com/moiezshaikh18)**
 - 🔭 I’m currently working at **Cybage Software**
 - 🌱 I’m currently learning **TypeScript**
